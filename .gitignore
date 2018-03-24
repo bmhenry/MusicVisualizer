@@ -1,0 +1,7 @@
+# Folders
+
+# C files
+*.o
+
+# Qt specific files
+*.pro.user
